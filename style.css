@@ -9,8 +9,8 @@
     --text-dark: #888888;
     --grid-line: rgba(126, 37, 199, 0.1);
     --highlight: rgba(145, 26, 135, 0.3);
-    --success: #682d8a;
-    --warning: #c21eba;
+    --success: #ff0000;
+    --warning: #00ff73;
     --danger: #6d2d7e;
 }
 
