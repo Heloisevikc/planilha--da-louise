@@ -38,7 +38,7 @@ body {
     width: 95%;
     overflow: auto;
     border: 1px solid var(--primary);
-    box-shadow: 0 0 20px rgba(0, 247, 255, 0.3),
+    box-shadow: 0 0 20px rgba(204, 0, 255, 0.123),
                 0 0 40px rgba(139, 0, 255, 0.2);
     background-color: var(--bg-darker);
     border-radius: 5px;
